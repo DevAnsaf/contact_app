@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Demo',
+      title: 'Contents Buddy',
       theme: ThemeData(
         primarySwatch: Colors.deepPurple,
       ),
@@ -106,7 +106,7 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         title: const Align(
           alignment: Alignment.center,
-          child: Text("Contents Buddyxc"),
+          child: Text("Contents Buddy"),
         ),
         actions: [
           IconButton(
