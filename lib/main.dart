@@ -106,7 +106,7 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         title: const Align(
           alignment: Alignment.center,
-          child: Text("Contents Buddy"),
+          child: Text("Contents Buddyxc"),
         ),
         actions: [
           IconButton(
